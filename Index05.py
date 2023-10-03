@@ -6,4 +6,5 @@ def main(s):
     Returns:
         int: answer
     """
-    return
+    return s[0]
+print(main("32x3z"))
